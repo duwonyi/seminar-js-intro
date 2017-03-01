@@ -1,0 +1,11 @@
+{
+  "generator-reveal": {
+    "presentationTitle": "Introduction of JavaScript",
+    "packageVersion": "0.0.0",
+    "revealTheme": "solarized",
+    "useSass": false,
+    "deployToGithubPages": true,
+    "githubUsername": "duwonyi",
+    "githubRepository": "seminar-js-intro"
+  }
+}
