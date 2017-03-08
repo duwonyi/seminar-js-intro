@@ -61,6 +61,7 @@
 - Shim, Polyfill
 
 ## Web Application example
+- Simple Contacts App
 - Classical example(Vanilla, jQuery) 
 - Modern example(ES6, Webpack)
 
