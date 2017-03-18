@@ -1,7 +1,7 @@
 ## Present
 - HTML5, CSS3
 - V8, NodeJS, NPM
-- Single Page Application(SPA)
+- Single Page Application(SPA), MEAN Stack
 - Backbone, Angular, React, Polymer
 - RESTful API based on JSON
 - Data Visualization D3.js
