@@ -1,10 +1,8 @@
 
-# Introduction of JavaScript
+# Little talks
 
-From the terminal, pop in:
+## to JavaScript and Front-end Development
 
-  ```yo reveal:slide "Slide Title"```
+### Doowon Lee
 
-Available options:
 
- ```--markdown --attributes --notes```

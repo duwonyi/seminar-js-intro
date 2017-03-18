@@ -1,1 +1,19 @@
-["index.md"]
+[
+    "index.md",
+    [
+        "brief-history.md",
+        "objectives.md",
+        "feaures.md"
+    ],
+    [
+        "javascript-and-java.md",
+        "browser-wars.md"
+    ],
+    [
+        "renaissance-ajax.md",
+        "present.md",
+        "ecmascript-2016.md"
+    ],
+    "web-app-example.md",
+    "future-of-javascript.md"
+]
