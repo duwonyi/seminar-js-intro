@@ -56,7 +56,6 @@ var xhr = new XMLHttpRequest();
   - prototype.js, jQuery, YUI, ExtJs, Dojo, Mootools etc.
   - **Winner is jQuery**
 
-
 ## Present
 - HTML5, CSS3
 - V8, NodeJS, NPM
